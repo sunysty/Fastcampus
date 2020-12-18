@@ -3,7 +3,7 @@ header {
 }
 
 .pangHi {
-  vertical-align: bottom;
+  display: block;
 }
 
 main {
