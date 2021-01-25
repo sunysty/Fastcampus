@@ -1,0 +1,11 @@
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  transition: 0.5s;
+}
+.box:hover {
+  width: 200px;
+  height: 200px;
+  background-color: orange;
+}

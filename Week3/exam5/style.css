@@ -1,0 +1,24 @@
+li {
+  list-style: none;
+  font-family: serif;
+}
+
+.test1 {
+  font-weight: 700;
+}
+
+.test2 {
+  text-decoration: line-through;
+}
+
+.test3 {
+  text-indent: 100px;
+}
+
+.test4 {
+  letter-spacing: 5px;
+}
+
+.test5 {
+  font-family: "courier new", "Courier New", Courier, monospace;
+}

@@ -1,0 +1,17 @@
+div {
+  border: 1px solid;
+}
+
+.container {
+  width: 800px;
+  height: 500px;
+  position: relative;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 75%;
+  top: 75%;
+}

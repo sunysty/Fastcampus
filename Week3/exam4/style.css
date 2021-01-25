@@ -1,0 +1,19 @@
+.colors {
+  list-style: none;
+  font-family: serif;
+  font-weight: bold;
+}
+
+.colors li:nth-child(1):after 
+/* 태그선택자와 :가상클래스선택자 사이에 공백이 있어서는 안된다 */ {
+  content: " panther";
+  color: pink;
+}
+
+.colors li:nth-child(3) {
+  color: green;
+}
+
+.colors li:nth-child(4):before {
+  content: "this is ";
+}
